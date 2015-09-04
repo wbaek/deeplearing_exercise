@@ -1,0 +1,8 @@
+numpy
+joblib==0.8.4
+matplotlib
+scikit-learn==0.15.2
+tabulate==0.7.5
+git+https://github.com/Theano/Theano.git@82c804c#egg=Theano==0.8.master.git
+git+https://github.com/Lasagne/Lasagne.git@7eed54b#egg=Lasagne==0.2.master.git
+git+https://github.com/dnouri/nolearn.git@1f02036#egg=nolearn==0.7.master.git
