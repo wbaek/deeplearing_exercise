@@ -22,6 +22,10 @@ Deep Learning Exercise
 
 
 ## Intermidiate
+### Farm-ads Text Classification
+* ![Farm-ads result](https://raw.githubusercontent.com/wbaek/deeplearing_exercise/master/materials/2.intermidiate/nolearn_farm_ads_result.png)
+* https://github.com/wbaek/deeplearing_exercise/blob/master/excercises/2.intermidiate/nolearn_farm_ads.ipynb
+
 ### MNIST Handwritten Digit Recognition
 * ![MNIST result](https://raw.githubusercontent.com/wbaek/deeplearing_exercise/master/materials/2.intermidiate/nolearn_mnist_result.png)
 * https://github.com/wbaek/deeplearing_exercise/blob/master/excercises/2.intermidiate/nolearn_mnist.ipynb
