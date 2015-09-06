@@ -13,7 +13,7 @@ Deep Learning Exercise
 # Excrcise
 ## toy example
 * ![toy example result](https://raw.githubusercontent.com/wbaek/deeplearing_exercise/master/materials/1.basic/nolearn_toy_example_result.png)
-* https://github.com/wbaek/deeplearing_exercise/blob/master/excercises/1.basic/nolearn_toy_example.ipynb
+* https://github.com/wbaek/deeplearing_exercise/blob/master/excercises/1.basic/nolearn_toy_classification.ipynb
 
 ## MNIST Handwritten Digit Recognition
 * ![MNIST result](https://raw.githubusercontent.com/wbaek/deeplearing_exercise/master/materials/1.basic/nolearn_mnist_result.png)
