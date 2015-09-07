@@ -12,13 +12,13 @@ Deep Learning Exercise
 
 # Excrcise
 ## Basic
-### toy classification example
-* ![toy example result](https://raw.githubusercontent.com/wbaek/deeplearing_exercise/master/materials/1.basic/nolearn_toy_example_result.png)
-* https://github.com/wbaek/deeplearing_exercise/blob/master/excercises/1.basic/nolearn_toy_classification.ipynb
-
 ### toy regression example
 * ![toy example data](https://raw.githubusercontent.com/wbaek/deeplearing_exercise/master/materials/1.basic/nolearn_toy_regression_data.png)
 * https://github.com/wbaek/deeplearing_exercise/blob/master/excercises/1.basic/nolearn_toy_regression.ipynb
+
+### toy classification example
+* ![toy example result](https://raw.githubusercontent.com/wbaek/deeplearing_exercise/master/materials/1.basic/nolearn_toy_example_result.png)
+* https://github.com/wbaek/deeplearing_exercise/blob/master/excercises/1.basic/nolearn_toy_classification.ipynb
 
 
 ## Intermidiate
